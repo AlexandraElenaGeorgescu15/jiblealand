@@ -1,0 +1,6 @@
+{
+  "name": "Jiblealand App",
+  "description": "Aplicația oficială a parcului de distracții modern Jiblealand cu bilete digitale, Fast-Pass, hartă live MCP și suport automatizat n8n.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
